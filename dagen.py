@@ -10,7 +10,7 @@ print(f"De werkdagen zijn:")
 for x in range(5):
     print(dagen[x])
 print(f"De weekenddagen zijn:")
-for x in range(5,7):
+for x in range(7):
     print(dagen[x])
 print(f"Alle dagen van de week in omgekeerde volgorde zijn:")
 for x in range(6, -1, -1):
